@@ -1,2 +1,2 @@
-# ventilation-duration
-Predicting mechanical ventilation duration in critical care patients using machine learning
+# Predicting mechanical ventilation duration in critical care patients using machine learning
+
